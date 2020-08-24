@@ -1,0 +1,4 @@
+﻿Name|ItemPrice|ItemStock
+ABC|2.90|9
+xyz|9.4|23
+jkl|5.0|10
